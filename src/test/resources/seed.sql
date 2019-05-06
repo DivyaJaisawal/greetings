@@ -1,0 +1,1 @@
+insert into greet (message) VALUES ("hello world");

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gojek:jfigaro:1.2.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not find com.gojek:jfigaro:1.2.3." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gojek/jfigaro/1.2.3/6f46fb635a9e48aa6be3ea98f1a125fb976f468a/jfigaro-1.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gojek/jfigaro/1.2.3/e43161fc0ef0f7353e1e4dce27c04ca97326a105/jfigaro-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
